@@ -1,4 +1,4 @@
-# Web Dashboard Project
+# Web Blog Project
 
 This repository contains the backend and frontend parts of the web application called Web Dashboard. The project is developed using Python, MySQL, and Flask, with the frontend designed using Bootstrap, HTML, and CSS. It includes the following components:
 
